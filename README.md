@@ -6,7 +6,7 @@
 
 A Nextflow-based Hi-C data analysis pipeline customized for the Satpathy lab. This pipeline processes chromosome conformation capture (Hi-C) sequencing data from raw reads through to downstream analysis including loop calling, TAD detection, and compartment identification.
 
-> **Note:** This pipeline is derived from [nf-core/hic](https://github.com/nf-core/hic) but has been significantly modified and enhanced for Satpathy lab workflows.
+> **Note:** This pipeline is derived from [nf-core/hic](https://github.com/nf-core/hic) but has been significantly modified and enhanced for Satpathy lab publication purpuse.
 
 ## Overview
 
