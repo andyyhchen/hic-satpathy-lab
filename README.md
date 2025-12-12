@@ -138,7 +138,7 @@ results/
 
 ## Credits
 
-This pipeline is based on **nf-core/hic** (originally written by Nicolas Servant) and has been customized for the Satpathy lab with the following enhancements:
+This pipeline is based on **nf-core/hic** and has been customized for the Satpathy lab with the following enhancements:
 
 - Multiple loop calling methods (MUSTACHE and cooltools dots)
 - Juicebox output generation for interactive visualization
